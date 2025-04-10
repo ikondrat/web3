@@ -79,6 +79,7 @@ You should include:
 - 🗣️ Feel free to ask any questions at any time during the process
 
 %%% MVP Architecture
+```mermaid
 flowchart TD
     subgraph "Polkadot Network"
         P[Polkadot Nodes]
@@ -93,6 +94,7 @@ flowchart TD
     end
 
     P <--> A
+```
 
 %%% Future Scalable Architecture
 ```mermaid
