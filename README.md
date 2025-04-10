@@ -95,6 +95,7 @@ flowchart TD
     P <--> A
 
 %%% Future Scalable Architecture
+```mermaid
 flowchart TD
     subgraph "Polkadot Network"
         P[Polkadot Nodes]
@@ -179,3 +180,4 @@ flowchart TD
     CM --> EP1
     CM --> EP2
     CM --> EP3
+```
